@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#002B52",
+            "lang-select-color": "#222829",
+            "bg-light": "#002B52",
+            "welcome-bonus-bg": "#002B52",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#01203c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0000F0",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fcba03",
+            "yellow": "#0000F0",
+            "yellow-button": "#fcba03",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#0000F0",
+            "casino-cards": "#002B52",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#0000F0",
+            "providers-back": "#002B52",
+            "faq-label": "#002B52",
+            "bg-footer": "#002B52",
+            "copyright": "#e7e7d5",
+            "starColor": "#0000F0",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5967"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5968",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Starlight Princess Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5969",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Starlight Princess"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Starlight Princess",
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Play the original Starlight Princess slot by Pragmatic Play with a 6x5 grid, Pay Anywhere mechanics, 15 free spins from 4+ Scatters, multipliers up to 500x, and a maximum win of up to 5,000x the stake. Bright anime visuals, tumbling wins, and strong bonus-round potential.",
+                    "canonical": "starlight-princesslot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5970",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "starlight-princesslot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5971"
+                },
+                "hero": {
+                    "title": "Starlight Princess — 15 Free Spins, Multipliers up to 500x, Wins up to 5,000x",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5972",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5973",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Bright anime visuals and dreamy sky theme",
+                        "Wins pay anywhere across the grid",
+                        "Cascades extend spins and boost excitement",
+                        "Random multipliers reach an impressive 500x",
+                        "Free spins build a persistent win multiplier",
+                        "High max potential up to 5,000x",
+                        "Simple rules and beginner-friendly game flow"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Starlight Princess App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5974",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Starlight Princess App",
+                    "mobileGooglePlayImageTitle": "Starlight Princess App",
+                    "mobileIosImageTitle": "Starlight Princess App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Starlight Princess",
+                        "description1": "Starlight Princess is the original anime-themed slot by Pragmatic Play, built on a 6x5 grid with a Pay Anywhere system that rewards 8 to 30 matching symbols anywhere on the screen.",
+                        "items": [],
+                        "description2": "The game feels fast and lively thanks to tumbling cascades that keep the same spin going after a win. Its defining feature is the random multiplier mechanic, with values ranging from 2x to 500x in both the base game and the bonus round. The bonus is triggered by landing 4 or more Scatter symbols and awards 15 free spins, where multipliers are added to a running total that can boost later wins. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5975",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "This is a high-volatility slot, so the biggest moments usually come from a strong bonus sequence rather than from steady base-game payouts. Starlight Princess stands out for players who enjoy energetic gameplay, anime-inspired visuals, and the chance of a memorable high-multiplier hit."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Starlight Princess — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Key Features\n<\/h3>\n<p>\nStarlight Princess is a vivid anime-style video slot designed around tumbling wins, fast momentum, and strong bonus-round potential. Instead of traditional paylines, the game uses a Pay Anywhere format, so the total number of matching symbols matters more than their exact positions. The base game can already produce sharp spikes through random multipliers up to 500x, while the real long-form potential appears in free spins with a persistent global multiplier. This makes the slot especially attractive to players who enjoy volatile gameplay with explosive bonus upside.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCore characteristics\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Grid size: 6x5<\/li>\n            <li>• Payout format: Pay Anywhere<\/li>\n            <li>• Winning requirement: 8 or more matching symbols<\/li>\n            <li>• Multiplier range: 2x to 500x<\/li>\n            <li>• Bonus trigger: 4+ Scatter symbols<\/li>\n            <li>• Free spins award: 15 free spins<\/li>\n            <li>• Bonus retrigger: possible with 3 Scatters during free spins<\/li>\n            <li>• Volatility: High<\/li>\n            <li>• RTP: 96.50%<\/li>\n            <li>• Maximum win: up to 5,000x the stake<\/li>\n            <li>• Extra options: Tumbles, Ante Bet, Bonus Buy where available<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Starlight Princess\n<\/h3>\n<p>\nStarlight Princess is usually available on licensed online gaming platforms that work with Pragmatic Play. In most cases, the slot can be launched both in a desktop browser and on mobile devices such as smartphones and tablets. Reliable platforms typically provide access to the paytable, game rules, RTP details, and a switch between demo play and real-money mode. Depending on the region and operator settings, additional options like Ante Bet or Bonus Buy may also be enabled. The best experience usually comes from choosing platforms with clear navigation, transparent terms, and stable performance across devices.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Demo Mode\n<\/h3>\n<p>\nThe demo mode in Starlight Princess lets players explore the slot without risking real money. It usually keeps the same core mechanics as the standard version, including tumbles, the Pay Anywhere system, random multipliers from 2x to 500x, and the 15 free spins bonus feature. This makes demo play especially useful for understanding the slot’s pace, volatility, and bonus-round rhythm. It is also a practical way to test a comfortable stake level and learn the symbol values before switching to real-money play.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Paytable\n<\/h3>\n<p>\nBelow is a clear symbol payout table for the original Starlight Princess slot. All values are shown as multipliers of the base bet and are based on wins from 8–9, 10–11, and 12–30 matching symbols anywhere on the grid.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #0000F0;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Combination<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sun<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sun<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">25x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sun<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">50x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Heart<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">2.5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Heart<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Heart<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">25x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Moon<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">2x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Moon<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Moon<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">15x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Star<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">1.5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Star<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">2x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Star<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Red Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">1x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Red Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">1.5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Red Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blue Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.8x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blue Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">1.2x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blue Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Green Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Green Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">1x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Green Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">5x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Turquoise Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.4x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Turquoise Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.9x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Turquoise Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">4x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Yellow Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">8–9<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.25x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Yellow Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">10–11<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">0.75x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Yellow Gem<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">12–30<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">2x<\/td><\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow Players Actually Win in Starlight Princess\n<\/h3>\n<p>\nThere is no guaranteed winning method in Starlight Princess, but real gameplay experience shows a clear pattern: the biggest payouts usually come from a strong bonus round rather than from isolated base-game spins. In practice, the base game often acts as a setup phase, while the free spins round is where the slot truly opens up. The strongest sessions often follow the same path: 15 free spins are triggered, the global multiplier starts building early, and then one or two premium-symbol cascades connect at the right moment. When several multipliers land during winning tumbles in the bonus, even a medium-sized symbol hit can grow into a much larger payout. Experienced players also notice that patience matters here because the slot can run quietly for a while before producing a meaningful sequence. The smartest way to approach it is not to chase a secret formula, but to respect the volatility, manage the session properly, and wait for a genuinely strong bonus window.\n<\/p>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Starlight Princess — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Bonuses and Special Offers\n<\/h3>\n<p>\nStarlight Princess stands out because it combines instant upside in the base game with long-form potential during free spins. Even a regular spin can grow sharply through random multipliers, while the bonus round pushes this even further through an accumulating multiplier system. The core bonus is not just about free spins, but about building a stronger and stronger total multiplier over time. On some platforms, extra in-game options may also change how often players reach the bonus. Around the slot itself, there are often external promotional offers such as deposit packages, cashback deals, or free-spin campaigns, although those always depend on the operator. This makes Starlight Princess appealing both for its built-in mechanics and for the promotional opportunities that may surround it.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFree Spins Bonus\n<\/h4>\n<ul>\n            <li>• 15 free spins are triggered by landing 4 or more Scatter symbols. During the feature, every multiplier that lands on a winning tumble is added to a persistent total. For example, if x5 and x20 appear early, the running bonus multiplier becomes x25 for later wins. This is the main feature where the slot usually shows its strongest potential.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFree Spins Retrigger\n<\/h4>\n<ul>\n            <li>• Additional free spins can be awarded during the bonus round. A common setup is +5 extra spins for 3 Scatters during free spins. For example, the original 15-spin round can expand to 20, 25, or more if the sequence keeps going. Retriggers become especially valuable when the global multiplier is already high.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRandom Multipliers in the Base Game\n<\/h4>\n<ul>\n            <li>• Multiplier symbols ranging from 2x to 500x can land during the base game. If several multipliers appear in the same tumble, they are added together. For example, x10 + x25 + x50 become a total x85 applied to the tumble win. This keeps even regular spins capable of producing sudden standout moments.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGlobal Bonus Multiplier\n<\/h4>\n<ul>\n            <li>• This is the core internal engine of the bonus round. Every new winning multiplier increases the total for the rest of free spins. For example, a sequence of x3, then x7, then x15 creates a running x25 multiplier. That is why one strong bonus round can feel much bigger than the symbol values alone would suggest.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAnte Bet\n<\/h4>\n<ul>\n            <li>• On some platforms, Ante Bet raises the spin cost by about 25% while improving the chance of reaching the bonus round. For example, a base stake of 1 becomes 1.25 with Ante Bet enabled. It is useful for players focused on bonus access, but it also requires tighter bankroll control.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus Buy\n<\/h4>\n<ul>\n            <li>• Where allowed, the bonus round can be purchased instantly instead of waiting for a natural trigger. A common cost is 100x the current base bet. For example, with a 0.50 stake the feature would cost 50, and with a 1.00 stake it would cost 100. It gives direct access to the slot’s strongest mechanic, but it also increases session risk significantly.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nExternal Promotional Offers\n<\/h4>\n<ul>\n            <li>• Some operators may attach deposit bonuses, cashback, or free-spin packages to Starlight Princess. Typical examples can include 50%–100% deposit boosts, 20–100 free spins, or 5%–15% cashback when the game is part of a campaign. Slot tournaments and spin-based missions may also appear. These offers do not change the game math, but they can improve the overall session value.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Free Spins and Multipliers Table\n<\/h3>\n<p>\nThis table gives a quick overview of how free spins and multipliers work in the original Starlight Princess. These mechanics hold most of the slot’s real upside, so understanding them is essential before playing seriously.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #0000F0;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Condition<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Result<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus trigger<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">4+ Scatters in one tumble sequence<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">15 free spins<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus retrigger<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">3 Scatters during free spins<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">+5 free spins<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Base-game multiplier<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Special multiplier symbol lands<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">2x to 500x<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Multiple multipliers<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Several symbols in one tumble<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Values are added together<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus multiplier growth<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Multiplier hits on a winning free-spin tumble<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Added to the running total<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Running multiplier duration<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Entire free spins feature<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Active until the bonus ends<\/td><\/tr>\n    <tr><td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Maximum win cap<\/strong><\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Any game mode<\/td><td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 5,000x stake<\/td><\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Starlight Princess\n<\/h3>\n<p>\nStarlight Princess is easy to launch and understand on the surface, but it is still a high-volatility slot that reveals most of its strength during the bonus round. The key is to choose a sensible stake, track your balance carefully, and remember that wins are not formed through paylines but through symbol quantity anywhere on the grid. The better you understand tumbles and multipliers, the smoother and more controlled your session will feel.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChoose your stake\n<\/h4>\n<ul>\n            <li>• Set a comfortable spin value before you begin. In this slot, raising the bet too early can be risky because long stretches without a bonus are possible. A balanced starting stake gives you room to handle volatility more calmly.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUnderstand Pay Anywhere\n<\/h4>\n<ul>\n            <li>• There are no classic paylines here. A win is paid when 8 or more matching symbols land anywhere on the screen. Focus on symbol counts rather than line patterns.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWatch the tumbles\n<\/h4>\n<ul>\n            <li>• After a winning combination, those symbols disappear and new ones fall in. This means one spin can turn into several linked wins. Multiplier symbols become especially valuable during these tumble chains.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTreat the bonus as the main target\n<\/h4>\n<ul>\n            <li>• Most of the slot’s real upside is concentrated in free spins. Landing 4 or more Scatters awards 15 free spins, and multipliers during the feature build into a stronger total. That is where the game can become truly explosive.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse Ante Bet carefully\n<\/h4>\n<ul>\n            <li>• Ante Bet raises the cost of each spin but can improve access to the bonus round. It should only be used when your bankroll supports a more aggressive approach. For a calmer session, the standard base-game mode is often more practical.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCheck extra options first\n<\/h4>\n<ul>\n            <li>• Some platforms also offer Bonus Buy. It gives immediate access to free spins, but it requires a much larger bankroll buffer. Newer players are usually better off learning the game through natural spins first.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Playing Tips\n<\/h3>\n<p>\nStarlight Princess rewards patience and session control more than rushed decisions. This is a slot where emotional play often becomes more expensive than technical mistakes. The strongest long-term approach usually comes from understanding the game’s high volatility and not expecting every short session to produce a major hit.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBring a session-sized bankroll\n<\/h4>\n<ul>\n            <li>• High-volatility slots require enough balance to survive longer stretches between strong moments. The less pressure you place on each individual spin, the easier it becomes to wait for a quality bonus sequence. This matters even more when you are not using Bonus Buy.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStart in demo mode\n<\/h4>\n<ul>\n            <li>• Demo play helps you feel the game’s rhythm and see how tumbles and multipliers actually behave. It is also the fastest way to memorize the symbol set and bonus trigger. Once you understand the tempo, choosing a real-money stake becomes much easier.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo not overvalue the base game\n<\/h4>\n<ul>\n            <li>• Regular spins can still surprise you, but the true strength of Starlight Princess usually shows up in free spins. Random base-game multipliers are exciting, yet the biggest upside generally comes when the bonus multiplier starts accumulating. Keep your expectations centered on the bonus structure.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSet limits before you start\n<\/h4>\n<ul>\n            <li>• Decide on both a session budget and a win target in advance. This helps you lock in a good result instead of giving it back through unnecessary extra spins. Discipline becomes especially valuable after a strong bonus round.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse aggressive options carefully\n<\/h4>\n<ul>\n            <li>• Ante Bet and Bonus Buy can increase both pace and risk. These features make more sense when you are fully prepared for sharper swings. For a steadier session, standard spins are usually the better entry point.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCheck the platform rules\n<\/h4>\n<ul>\n            <li>• RTP versions and extra features may vary by operator. It is useful to review the active game settings before you begin. That gives you a clearer idea of the exact conditions behind your session.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nStarlight Princess Mistakes That Drain Your Bankroll\n<\/h3>\n<p>\nThe biggest mistake in Starlight Princess is treating it like a calm, steady slot. This is a high-volatility game, and trying to force results too quickly usually leads to a depleted bankroll. Most losses happen not because the slot is complicated, but because players underestimate the cost of variance and overestimate how often strong bonuses will land.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStarting with stakes that are too high\n<\/h4>\n<ul>\n            <li>• Many players raise the bet too early without understanding how long dry stretches can last. A normal sequence without a bonus can then remove a large part of the bankroll very quickly. In Starlight Princess, this is one of the most common session-killing mistakes.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChasing losses immediately\n<\/h4>\n<ul>\n            <li>• After a bad run, some players respond by increasing bet size and speeding up gameplay. That adds pressure to the balance and usually makes the downswing worse. In a volatile slot, this reaction is especially dangerous.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMisunderstanding where the real upside sits\n<\/h4>\n<ul>\n            <li>• Some players expect major payouts from every short base-game stretch. When that does not happen, they start forcing the session with bigger bets. In reality, the slot’s strongest potential lives in the free spins feature, while the base game can stay quiet for a while.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nOverusing Ante Bet\n<\/h4>\n<ul>\n            <li>• Ante Bet can be useful, but it also increases the cost of every spin. If your bankroll is small, that extra cost can empty it much faster. More bonus access does not automatically mean better results.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBuying bonuses too often without a plan\n<\/h4>\n<ul>\n            <li>• Bonus Buy can speed up the session dramatically. A few weak bonus purchases in a row can burn through the balance much faster than natural spinning. This feature should only be used with a clearly defined loss limit.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaying without stop limits\n<\/h4>\n<ul>\n            <li>• Without clear win and loss boundaries, players often stay in the session too long. Even a good bonus can be given back immediately through emotional extra spins. Limits are essential in a game with this level of swing.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nIgnoring the active game setup\n<\/h4>\n<ul>\n            <li>• Some players never check which RTP version is active or whether extra features are enabled. That creates expectations that may not match the actual session conditions. Reviewing the rules before you start can prevent unnecessary mistakes.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does Starlight Princess use traditional paylines?",
+                            "answer": "No, it uses a Pay Anywhere system instead. Wins are based on collecting enough matching symbols anywhere on the grid."
+                        },
+                        {
+                            "title": "Do matching symbols need to be adjacent?",
+                            "answer": "No, adjacency is not required. What matters is the total number of identical symbols visible on the screen at the same time."
+                        },
+                        {
+                            "title": "Is there a Wild symbol in the slot?",
+                            "answer": "No, the original Starlight Princess does not include a dedicated Wild symbol. Its main special elements are the Scatter symbol and the multiplier symbols."
+                        },
+                        {
+                            "title": "Does spin speed or animation affect results?",
+                            "answer": "No, visual speed does not change the game math. Every spin outcome is determined by random number generation."
+                        },
+                        {
+                            "title": "Can the maximum win go above 5,000x?",
+                            "answer": "No, the original Starlight Princess has a stated maximum win cap of up to 5,000x the stake. Even a very strong sequence still remains limited by that ceiling."
+                        },
+                        {
+                            "title": "What matters more in this slot: the bonus or the base game?",
+                            "answer": "The base game can still produce good moments, but most of the real upside is usually connected to free spins. That is where the persistent multiplier system becomes most important."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
